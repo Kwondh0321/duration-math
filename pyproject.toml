@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "duration-math"
 version = "0.1.0"
-description = "Parse and add human-friendly durations such as 1h30m"
+description = "1h30m 같은 사람이 읽기 쉬운 기간을 해석하고 합산"
 readme = "README.md"
 requires-python = ">=3.11"
 license = "MIT"
@@ -25,3 +25,7 @@ duration-math = "duration_math:main"
 
 [tool.setuptools]
 py-modules = ["duration_math"]
+
+[project.urls]
+Source = "https://github.com/Kwondh0321/duration-math"
+Issues = "https://github.com/Kwondh0321/duration-math/issues"
