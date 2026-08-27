@@ -1,4 +1,4 @@
-"""Parse and add human-friendly durations such as 1h30m."""
+"""1h30m 같은 사람이 읽기 쉬운 기간을 해석하고 합산. / Parse and add human-friendly durations such as 1h30m."""
 
 import argparse
 import re
