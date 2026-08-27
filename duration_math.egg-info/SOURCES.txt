@@ -1,0 +1,10 @@
+LICENSE
+README.md
+duration_math.py
+pyproject.toml
+duration_math.egg-info/PKG-INFO
+duration_math.egg-info/SOURCES.txt
+duration_math.egg-info/dependency_links.txt
+duration_math.egg-info/entry_points.txt
+duration_math.egg-info/top_level.txt
+tests/test_duration_math.py
